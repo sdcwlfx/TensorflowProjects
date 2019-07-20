@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:/ustcsse/TensorFlowPro/projector/a_model.ckpt-1001"
+all_model_checkpoint_paths: "F:/ustcsse/TensorFlowPro/projector/a_model.ckpt-1001"
